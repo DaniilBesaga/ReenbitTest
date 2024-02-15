@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:5173",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\..\\reenbittest.client",
+"WorkingDirectory": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\..\\reenbittest.client",
 "MaxTimeoutInSeconds": "120"
 }
 }

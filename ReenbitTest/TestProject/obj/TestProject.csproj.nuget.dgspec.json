@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FullstackDevelopment\\ReenbitTest\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "D:\\FullstackDevelopment\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj": {
+    "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FullstackDevelopment\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj",
         "projectName": "FunctionApp2",
-        "projectPath": "D:\\FullstackDevelopment\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj",
+        "projectPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\FullstackDevelopment\\ReenbitTest\\FunctionApp2\\obj\\",
+        "outputPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\FunctionApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj": {
+    "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
         "projectName": "ReenbitTest.Server",
-        "projectPath": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
+        "projectPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\obj\\",
+        "outputPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -165,14 +165,14 @@
         }
       }
     },
-    "D:\\FullstackDevelopment\\ReenbitTest\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FullstackDevelopment\\ReenbitTest\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "D:\\FullstackDevelopment\\ReenbitTest\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\FullstackDevelopment\\ReenbitTest\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -193,11 +193,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\FullstackDevelopment\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj": {
-                "projectPath": "D:\\FullstackDevelopment\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj"
+              "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj": {
+                "projectPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\FunctionApp2\\FunctionApp2.csproj"
               },
-              "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj": {
-                "projectPath": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj"
+              "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj": {
+                "projectPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj"
               }
             }
           }

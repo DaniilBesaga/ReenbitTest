@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Vk1j3SUORCFcxzWh4t2n9tRZSWsmQC96O2s1RmXcIHR2BMTqrV88OrduYMvZLkxdq+pRVGIIJECgOgNviBzmKQ==",
+  "dgSpecHash": "pDsdfZZ7a0vKCbawext7++XQ9XujdLcAsM0gUE0NuqwjZ9wOrGWBy9nCytYkDtq1PO8+YpMucaAziy8MY3L/jg==",
   "success": true,
-  "projectFilePath": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
+  "projectFilePath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\azure.storage.blobs\\12.19.1\\azure.storage.blobs.12.19.1.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\azure.storage.common\\12.18.1\\azure.storage.common.12.18.1.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.15\\microsoft.aspnetcore.spaproxy.7.0.15.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.16\\microsoft.aspnetcore.spaproxy.7.0.16.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.15\\microsoft.entityframeworkcore.abstractions.7.0.15.nupkg.sha512",

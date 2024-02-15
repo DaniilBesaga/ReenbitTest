@@ -58,7 +58,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/7.0.15": {
+      "Microsoft.AspNetCore.SpaProxy/7.0.16": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -459,10 +459,10 @@
         "lib/netstandard2.0/Azure.Storage.Common.xml"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/7.0.15": {
-      "sha512": "JS6MFw9YyPMauEGs1SRXZ1oPR+7qAXBdp3f75fOQIdPW6cNWm27g678P7F1DSAc97mZ8mIBBdTRpvC6radS0/A==",
+    "Microsoft.AspNetCore.SpaProxy/7.0.16": {
+      "sha512": "7FULMIscoqnMbgqot77mVpnsWxNpV0qHluCsNJRcx9io4POELJ/hIGZa71cbIUImEpKQoaJZe7Wzh3h0IFvdRw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/7.0.15",
+      "path": "microsoft.aspnetcore.spaproxy/7.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -470,7 +470,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.7.0.15.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.7.0.16.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -1045,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
       "projectName": "ReenbitTest.Server",
-      "projectPath": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
+      "projectPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\ReenbitTest.Server.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "D:\\FullstackDevelopment\\ReenbitTest\\ReenbitTest.Server\\obj\\",
+      "outputPath": "C:\\Users\\1\\Documents\\GitHub\\ReenbitTest\\ReenbitTest\\ReenbitTest.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

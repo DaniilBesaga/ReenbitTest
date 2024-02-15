@@ -160,12 +160,10 @@ namespace TestProject
             var blobContent = "Test blob content";
             var blobName = "testBlob.docx";
             var metadata = new Dictionary<string, string>
-        {
-            { "email", "test@example.com" }
-            // Add any other metadata required for testing
-        };
+            {
+                { "email", "test@example.com" }
+            };
 
-            // Mock the ILoggerFactory behavior to return the mocked ILogger instance
             var loggerFactoryMock = new Mock<ILoggerFactory>();
             loggerFactoryMock.Setup(x => x.CreateLogger(It.IsAny<string>())).Returns(_mockLogger.Object);
 
