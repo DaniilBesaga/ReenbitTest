@@ -1,0 +1,1 @@
+D:\FullstackDevelopment\ReenbitTest\reenbittest.client\obj\Debug\reenbittest.client.esproj.CoreCompileInputs.cache
